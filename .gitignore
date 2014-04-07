@@ -16,4 +16,9 @@
 /tmp
 
 .DS_Store
+
+# Ignore Paperclip uploaded files
 /public/system/*
+
+# Ignore Sample Images
+/sample_images
